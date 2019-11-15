@@ -32,9 +32,27 @@ Population and Housing Census. The various stages of the selection of the sample
 discussed below.
 
 Key sampling statistics - From the sampling done,they targeted 1, 000 Enumeration Areas, with 10 Interviews per in each area
-they achieved to do the survey succesfully in 998 areas. Their targeted Sample was 10,000 Respondents, 
-they were able to achieve repondents which equate 9459 which is a 95% achieved respondence rate and only 7094 are available 
+they achieved to do the survey successfully in 998 areas. Their targeted Sample was 10,000 Respondents, 
+they were able to achieve respondents which equate 9459 which is a 95% achieved despondence rate and only 7094 are available 
 in the dataset. 
 
 Data collection period: April to July 2017
+
+In this report, I will visualize the Data with graphs. To cover the relationships the between the variable to be able to compare describe and define all the relationships from the results got from the survey.
+
+### Results:
+
+1. From Examination of my dataset. I can conclude that there are no missing values. The type of dataset we working on is a Pandas Dataframe with 37 data columns and 7094 entries. The data types in this dataset are float(2) and intent(35).
+
+2. The data split is 56% to 44%, where 56% is females which are a total of 3972. Females that have mobile money are 1971 and those without mobile money are 2001. Males in the whole dataset are 3122 in total with 1959 having mobile money and 1163 without mobile money. The average age of a female with mobile money is 36 and the average age of a female without mobile is 39. The average age of a female with mobile money is 37 and the average age of a female without mobile is 43. 
+
+3. - Males use mobile money more than females.
+   - More young people use mobile money than elders so our data 	set is more skewed to the left.
+   - Married people use mobile money more than divorced, widowed 	or single people and still more married people do not have 	mobile money than all the other relationship status people.
+   - People that do not have land ownership use have the highest 	percentage on the piechart and do not use Mobile money, 		and those who do have land have the lowest percentage and 	do not use mobile money also.
+   - With income types people without mobile money do not use 		mobile money besides in the trading type of income.
+
+4. - 
+
+5.
 
