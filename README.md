@@ -54,5 +54,5 @@ In this report, I will visualize the Data with graphs. To cover the relationship
 
 4. - People with access to Mobile services use Mobile money than 	those who do not have access to mobile services
 
-5. - From our map we are able to identify how ou
+5. - From our map we are able to identify how our map we can clearly see that most of the people that use mobile money live by the costal are and their main source of income is by trading. and most people that use mobile money are female, married people and a lot of youth (this are people in the ages between 25-35). Not a lot of people also use mobile money, factors also might be that do not recieve income, do not have people to send or recieve money from using the services. few of elder people participate in the utilising of mobile money this mightbe that they have children and family members that send them money through mobile money.
 
